@@ -1,0 +1,16 @@
+:host {
+  min-height: 100vh;
+}
+
+.form {
+  width: 300px;
+  margin: auto;
+  padding-top: 20vh;
+
+  display: flex;
+  flex-flow: column nowrap;
+
+  .spinner {
+    margin: auto;
+  }
+}
